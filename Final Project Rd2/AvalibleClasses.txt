@@ -1,0 +1,12 @@
+CS-110 Intro_to_Computer_Info_Systems 3 N Whitworth_Staff
+CS-171 Computer_Science_I 3 N Alexander
+CS-172 Computer_Science_II 3 N Alexander
+CS-273 Data_Structures 3 N Whitworth_Staff
+CS-278 Comp_Organiztn_&_Assemblr_Prog 3 N Whitworth_Staff
+CS-313 Networks 3 Y Whitworth_Staff
+CS-344 Human_Computer_Interaction 3 Y Tucker
+CS-359 CS_Cultural_Program_Prep 3 Y Whitworth_Staff
+CS-370 Programming_Languages 3 Y Tucker
+CS-373 Digital_Logic_Design 3 Y Jones
+CS-374 Database_Management 3 Y Tucker
+CS-473 Adv_Algorithm_Design_&_Analysis 3 Y Jones
